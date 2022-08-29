@@ -1,2 +1,3 @@
-Html projects on Akila shoes 
+Akila Shoes
+Html sample project on Hackcode bootcamp 
 
